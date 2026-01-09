@@ -1,0 +1,44 @@
+**Weebdle Helper - Privacy Policy**
+**Last Updated: 01/08/2026**
+
+1. **Introduction**
+   This Privacy Policy explains what information Weebdle Helper ("the Bot") collects, how it is used, and how it is protected. By using the Bot, you agree to the practices described in this policy.
+
+2. **Information the Bot Collects**
+   Weebdle Helper only collects the minimum information necessary for its features to function. This may include:
+
+   * User IDs
+   * Command usage data
+   * Game progress (guesses, wins, completed daily challenges)
+
+   The Bot does not collect or store sensitive personal information such as names, emails, passwords, IP addresses, or message content unless explicitly required for a feature (and only if the user triggers that feature).
+
+3. **How Information Is Used**
+   Collected data is used solely to operate the Bot and improve its functionality. Examples include:
+
+   * Tracking daily Weebdle progress for each user
+   * Storing total wins and guesses for leaderboards
+   * Remembering server preferences and configurations
+   * Improving performance or quality of the Bot
+
+   The Bot does not sell, share, or disclose stored data to third parties.
+
+4. **Data Storage & Security**
+   All stored data is kept securely in the Bot’s database or file system. Reasonable measures are taken to prevent unauthorized access, data loss, or misuse.
+
+   However, no system is perfectly secure, and the developer is not liable for security breaches beyond reasonable control (e.g., Discord outages, hosting provider failures).
+
+5. **Data Sharing**
+   The Bot does not share user data with any external parties.
+   The only exception is if Discord itself handles or displays it as part of normal API behavior.
+
+7. **Children’s Privacy**
+   The Bot does not knowingly collect information from children under 13.
+   Users under 13 must not use Weebdle Helper, in accordance with Discord’s Terms of Service.
+
+8. **Changes to This Privacy Policy**
+   The developer may update this Privacy Policy at any time. Continued use of Weebdle Helper indicates acceptance of any changes.
+
+9. **Contact**
+   If you have questions about this Privacy Policy or wish to request data removal, contact:
+   Discord: swig5
